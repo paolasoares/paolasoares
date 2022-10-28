@@ -17,7 +17,7 @@
  
  ##
  
- div align="center"> 
+ <div align="center"> 
    <a href = "soarespaola009@gmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    <a href="https://linkedin.com/in/paola-soares-7678731b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </a>
@@ -27,6 +27,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=paolasoares&llayout=compact&langs_count=7&theme=highcontrast" alt="paola" />
  </div>
  
-  ![Snake animation](https://github.com/paolasoares/paolasoares/blob/output/github-contribution-grid-snake.svg)
-
-
