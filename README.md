@@ -1,7 +1,7 @@
 ### Olá 🙋‍♀
 <br>
-<p align="center"><a href="https://github.com/paolasoares"><img width="80%" </a></p>
-<p align="center"><a href="https://github.com/paolasoares"><img width="80%" alt="Hello, I'm Paola. I do open source!" </a></p>
+<p align="center"><a href="https://github.com/paolasoares"> </a></p>
+<p align="center"><a href="https://github.com/paolasoares"> alt="Hello, I'm Paola. I do open source!" </a></p>
 <br/>
 
 <div align="center">
