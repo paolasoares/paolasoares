@@ -4,7 +4,9 @@
   <a href="https://github.com/paolasoares)">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JordanaJ12&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 </div>
- 
+
+  ##
+  
 <div align="center">
  <a href="https://github.com/paolasoares">
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolasoares&layout=compact&langs_count=7&theme=aura"/>
