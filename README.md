@@ -1,5 +1,8 @@
 ### Olá 🙋‍♀
 
+<p align="center"><a href="https://https://github.com/paolasoares"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://https://github.com/paolasoares"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
 <div align="center">
   <a href="https://github.com/paolasoares)">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paolasoares&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
