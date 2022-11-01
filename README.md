@@ -18,7 +18,7 @@
  ##
  
  <div align="center"> 
-   <a href = "https://soarespaola009@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0078D4?style=for-the-badge&logo=microsoft-gmail&logoColor=white" target="_blank"></a>
+   <a href = "mailto:paolasoares009@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://linkedin.com/in/paola-soares-7678731b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </a>
 </div>
