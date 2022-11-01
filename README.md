@@ -1,8 +1,4 @@
 ### Olá 🙋‍♀
-<br>
-<p align="center"><a href="https://github.com/paolasoares"> </a></p>
-<p align="center"><a href="https://github.com/paolasoares"> alt="Hello, I'm Paola. I do open source!" </a></p>
-<br/>
 
 <div align="center">
   <a href="https://github.com/paolasoares)">
