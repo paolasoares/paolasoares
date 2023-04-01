@@ -1,4 +1,4 @@
-### Olá 🤗, sou estudante de Tecnologia da Informação, cursando o 4º semestre de análise e desenvolvimento de sistemas. 
+### Olá, sou estudante de Tecnologia da Informação, cursando o 5º semestre de análise e desenvolvimento de sistemas. 
 #
 <div align="center">
   <a href="https://github.com/paolasoares)">
