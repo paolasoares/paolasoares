@@ -1,4 +1,4 @@
-### Olá, sou estudante de Tecnologia da Informação, cursando o 5º semestre de análise e desenvolvimento de sistemas. 
+### Olá, sou formada na área de Tecnologia da Informação, no curso de Análise e Desenvolvimento de Sistemas.  
 #
 <div align="center">
   <a href="https://github.com/paolasoares)">
